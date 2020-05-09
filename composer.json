@@ -17,6 +17,7 @@
     },
     "require": {
         "phpmailer/phpmailer": "^6.0",
-        "ext-gd": "^7.2"
+        "ext-gd": "^7.2",
+        "frc/wp-env-heroku-jawsdb": "^1.0"
     }
 }
