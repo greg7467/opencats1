@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "14ee4d6b3765f25e94a67e60afb417ef",
+    "content-hash": "c4f530611d34a600099d4593e6fb411f",
     "packages": [
         {
             "name": "frc/wp-env-heroku-jawsdb",
@@ -3770,7 +3770,8 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "ext-gd": "^7.2"
+        "ext-gd": "^7.2",
+        "ext-mysqli": "^7.2"
     },
     "platform-dev": [],
     "plugin-api-version": "1.1.0"
