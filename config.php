@@ -37,10 +37,10 @@ if( !defined('LEGACY_ROOT') )
 }
 
 /* Database configuration. */
-define('DATABASE_USER', 'cats');
-define('DATABASE_PASS', 'password');
-define('DATABASE_HOST', 'localhost');
-define('DATABASE_NAME', 'cats_dev');
+define('DATABASE_USER', 'cb0ce58303ed6e1');
+define('DATABASE_PASS', '1370e574');
+define('DATABASE_HOST', 'us-cdbr-east-06.cleardb.net');
+define('DATABASE_NAME', 'heroku_6fadfa0c8a3faf7');
 
 /* Authentication Configuration
  * Options are sql, ldap, sql+ldap
